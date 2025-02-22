@@ -10,5 +10,13 @@
 </div>
 <p>It an app that teaches children coding like; star wars, scrach, artifical intelegents and html<p>
 </div>
+<div class="container-fluid">
+    <h2>My hobies</h2>
+    <button type="button" class="btn btn-primary">Dancing</button>
+    <button type="button" class="btn btn-secondary">singing</button>
+    <button type="button" class="btn btn-danger">reading</button>
+    <button type="button" class="btn btn-info">swimming</button>
+    <button type="button" class="btn btn-dark">running</button>
+</div>
 </body>
 </html>
