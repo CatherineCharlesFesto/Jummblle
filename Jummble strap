@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Learning jumbllestrap and buttons</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body style="text-align: center;">
+   <div class="Jumbotron">
+   <div class="container bg-warning">
+   <h1>Codingal</h1>
+</div>
+<p>It an app that teaches children coding like; star wars, scrach, artifical intelegents and html<p>
+</div>
+</body>
+</html>
